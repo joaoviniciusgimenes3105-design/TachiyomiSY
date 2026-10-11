@@ -25,7 +25,7 @@ Features of TachiyomiSY include:
 * Automatic webtoon detection, allowing the reader to switch to webtoon mode automatically when viewing one
 * Manga recommendations, uses MAL and Anilist, as well as Neko Similar Manga for Mangadex manga(Thanks to Az, She11Shocked, Carlos, and Goldbattle)
 * Lewd filter, hide the lewd manga in your library when you want to
-* Tracking filter, filter your tracked manga so you can see them or see non-tracked manga, made by She11Shocked
+* Tracking filter, filter your tracked manga so you can see them or see non-tracked jjjjmanga, made by She11Shocked
 * Search tracking status in library, made by She11Shocked
 * Custom categories for sources, liked the pinned sources, but you can make your own versions and put any sources in them
 * Manga info edit
